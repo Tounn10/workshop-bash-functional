@@ -6,4 +6,8 @@
 ## functionnal_tests
 ##
 
-echo "The number of arguments is $#"
+##Exercise 1
+##echo "The number of arguments is $#"
+
+##Exercise 2
+##echo "The arguments are [$@]"
