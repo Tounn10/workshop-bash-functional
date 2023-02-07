@@ -35,3 +35,14 @@
 ##}
 ##hello_fct
 
+##Exercise 6.1
+##test_do_op()
+##{
+##    ./do_op $@;
+##    echo $?
+##};
+##
+##test_do_op 1 + 2
+##test_do_op 2 - 1
+##test_do_op 3 x 3
+##test_do_op 4 / 2
