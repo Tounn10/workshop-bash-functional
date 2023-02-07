@@ -28,3 +28,10 @@
 ##echo $argc
 ##done
 
+##Exercise 5
+##hello_fct()
+##{
+##    echo "hello world"
+##}
+##hello_fct
+
