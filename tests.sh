@@ -19,3 +19,12 @@
 ##else
 ##    echo "arguments"
 ##fi
+
+##Exercise 4
+##argc=0
+##for i in "$@"
+##do
+##argc=$((argc+1))
+##echo $argc
+##done
+
