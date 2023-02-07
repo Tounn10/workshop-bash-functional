@@ -11,3 +11,11 @@
 
 ##Exercise 2
 ##echo "The arguments are [$@]"
+
+##Exercise 3
+##if [ -z "$1" ]
+##  then
+##    echo "no arguments"
+##else
+##    echo "arguments"
+##fi
